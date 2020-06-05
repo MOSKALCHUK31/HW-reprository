@@ -1,0 +1,9 @@
+git init
+
+
+//В файле .gitignore :
+*.sass
+/bin/
+/admin/
+/config/
+///////////
